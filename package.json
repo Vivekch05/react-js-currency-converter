@@ -1,5 +1,5 @@
 {
-  "name": "react-js-currency-converter",
+  "name": "currency-converter-react",
   "version": "1.0.0",
   "description": "An npm package convert currency",
   "main": "index.js",
